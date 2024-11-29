@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/LLM-mentions/static/js/main.d6b957ad.js",
+    "index.html": "/LLM-mentions/index.html",
+    "main.d6b957ad.js.map": "/LLM-mentions/static/js/main.d6b957ad.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d6b957ad.js"
+  ]
+}
